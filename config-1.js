@@ -104,6 +104,21 @@ const PRODUCTS = [
     price: 5000
     // image: "images/nexus-elec-liberte-financiere.jpg"
   }
+     {
+    id: "novarise-produits-digitaux",
+    seal: "PDF, Vidéos et audios",
+    tag: { fr: "FORMATIONS DIGITALES", en: "DIGITAL TRAINING COURSES" },
+    title: {
+      fr: "PACK ULTIME DE 53 FORMATIONS DIGITALES",
+      en: "ULTIMATE PACK OF 53 DIGITAL COURSES"
+    },
+    desc: {
+      fr: "OBTENEZ VOTRE PACK ULTIME DE 53 FORMATIONS DIGITALES Formation Business de Pointe : Apprenez à créer un business, gérer des campagnes publicitaires, et plus encore.",
+      en: "GET YOUR ULTIMATE PACK OF 53 DIGITAL COURSES – Cutting-Edge Business Training: Learn how to build a business, manage advertising campaigns, and more."
+    },
+    price: 2199
+    // image: "images/nexus-elec-liberte-financiere.jpg"
+  }
 
   /* 👉 Exemple pour ajouter un 3e produit, décommente et modifie ce bloc :
 
