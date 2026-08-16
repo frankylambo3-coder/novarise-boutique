@@ -116,7 +116,8 @@ const PRODUCTS = [
       fr: "OBTENEZ VOTRE PACK ULTIME DE 53 FORMATIONS DIGITALES Formation Business de Pointe : Apprenez à créer un business, gérer des campagnes publicitaires, et plus encore.",
       en: "GET YOUR ULTIMATE PACK OF 53 DIGITAL COURSES – Cutting-Edge Business Training: Learn how to build a business, manage advertising campaigns, and more."
     },
-    price: 2199
+    price: 5000,
+    image: "FormationPremium.png"
     // image: "images/nexus-elec-liberte-financiere.jpg"
   }
 
