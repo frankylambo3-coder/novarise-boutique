@@ -24,7 +24,7 @@ const SETTINGS = {
 
   // Numéro MTN Mobile Money qui reçoit les paiements
   momoNumber: "+237 650 152 105",
-  momoName: "LAMBO Franky",
+  momoName: "FONKOU Chanceline",
 
   // Numéro Orange Money qui reçoit les paiements
   omNumber: "+237 686 565 494",
